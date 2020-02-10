@@ -14,9 +14,15 @@ body{
     margin: 40px auto;
     background-color: white;
     padding: 1px 40px 40px 40px;
+    border-left: solid 25px hotpink;
+    border-right: solid 25px hotpink;
 }
 
 h1{
     font-size: 60px;
     font-family: Georgia;
+    background-color: #451235;
+    line-height: 80px;
+    padding: 20px;
+    
 }
