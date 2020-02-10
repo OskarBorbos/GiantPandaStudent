@@ -16,4 +16,6 @@ body{
 
 p{
     border: solid 5px #457844;
+    padding: 15px;
+    border-radius: 20px;
 }
