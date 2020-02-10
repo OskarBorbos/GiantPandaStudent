@@ -5,20 +5,34 @@ img {
 body{
     font-family: Arial;
     line-height: 25px;
+    background-color: darkgoldenrod;
+    margin: 0px;
 }
 
 .column{
     width: 600px;
     margin: 40px auto;
+    background-color: white;
+    padding: 1px 40px 40px 40px;
+    border-left: solid 25px hotpink;
+    border-right: solid 25px hotpink;
 }
 
 h1{
     font-size: 60px;
     font-family: Georgia;
-
+    background-color: #451235;
+    line-height: 80px;
+    padding: 20px;
+    
 }
 
 h1,h2 {
     text-shadow: 0px 0px 20px  #99bd00;
     color: green;
+}
+
+p{
+    background-color: lawngreen;
+    padding: 20px;
 }
