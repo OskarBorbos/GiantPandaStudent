@@ -19,10 +19,7 @@ body{
 h1{
     font-size: 60px;
     font-family: Georgia;
-<<<<<<< HEAD
-    background-color: #451235;
-    line-height: 80px;
-    padding: 20px;
+    padding: 15px 0px 15px 0px;
     
 }
 
@@ -35,6 +32,3 @@ p{
     background-color: lawngreen;
     padding: 20px;
 }
-=======
-}
->>>>>>> parent of 7e38911... head bg color
